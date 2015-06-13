@@ -3,6 +3,7 @@ package main.java;
 public class Person {
 	private String fName;
 	private String lName;
+	private int age;
 	public String getfName() {
 		return fName;
 	}
